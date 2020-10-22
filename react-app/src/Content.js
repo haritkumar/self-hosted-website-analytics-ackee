@@ -16,7 +16,7 @@ const Content = () => {
 		domainId: '65f4addf-c4dc-40e4-a69d-bb105197c40a'
 	}, {
 		ignoreLocalhost: false,
-		detailed: true
+		detailed: false
 	})
 
 	return (
