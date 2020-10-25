@@ -1,1 +1,1 @@
-docker build -t haritkumar/ackee .
+docker build -t haritkumar/ackee:2.1.0 .

@@ -1,9 +1,5 @@
 ## Self Hosted Analytic Tool `Ackee`
 
-```sh
-npm i
-npm start
-```
 
 ### Step 1: Create a mongo db named `ackee`
 
