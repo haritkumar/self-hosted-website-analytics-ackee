@@ -2,7 +2,7 @@
 Self-hosted, Node.js based analytics tool
 [Ackee](https://github.com/electerious/Ackee)
 
-(/img/ackee.png "Ackee")
+![Ackee](/img/ackee.png)
 
 ### Step 1: `docker-compose up`
 
@@ -12,6 +12,8 @@ Import `domains.json` into db
 
 ### Step 3: Access reactjs app
 `http://localhost:3000/` 
+
+![Ackee](/img/reactapp.png)
 
 ### Step 3: Access ackee app
 `http://localhost:5000/` 
