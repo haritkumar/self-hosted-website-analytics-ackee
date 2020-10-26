@@ -1,1 +1,20 @@
-{"_id":{"$oid":"5f95b750dbce3b003e36028b"},"title":"reactapp","id":"ea2518be-c4da-404f-af2e-4fcec83e01cf","created":{"$date":{"$numberLong":"1603647312348"}},"updated":{"$date":{"$numberLong":"1603647312348"}},"__v":{"$numberInt":"0"}}
+{
+    "_id": {
+        "$oid": "5f95b750dbce3b003e36028b"
+    },
+    "title": "reactapp",
+    "id": "ea2518be-c4da-404f-af2e-4fcec83e01cf",
+    "created": {
+        "$date": {
+            "$numberLong": "1603647312348"
+        }
+    },
+    "updated": {
+        "$date": {
+            "$numberLong": "1603647312348"
+        }
+    },
+    "__v": {
+        "$numberInt": "0"
+    }
+}
